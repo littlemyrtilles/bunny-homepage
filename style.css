@@ -1,7 +1,6 @@
 
   #header {
     background-color: #ff3547;
-    /* background-color: #D96098; */
   }
 
   .header {
@@ -10,22 +9,11 @@
 
   #footer {
     background-color: #ff3547; 
-    /* background-color: #D96098; */
   }
 
  .navbar {
     font-size: 1.1rem !important;
   }
-
-  /* .container-intro {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: repeat(6, auto);
-    gap: 20px;
-    align-items: center;
-    border-bottom: 20px
-  ;
-  } */
 
 .wrapper {
   margin-bottom: 30px;
@@ -45,8 +33,6 @@
     flex-basis: 100%;
     flex: 1;
     padding: 20px;
-    /* background-color: #FAEEE7; */
-    /* background-color: #FFFBEc; */
     box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
     border-radius: 10px;
     justify-content: center;
@@ -63,7 +49,6 @@
     height: 200px;
     border-radius: 50%;
     background-color: #FDDC5C;
-    /* background-color: #325288; */
     overflow: hidden;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     justify-content: center;
@@ -93,7 +78,6 @@
   .carousel-inner {
     border-radius: 25px;
     background-color: #02755b !important;
-    /* background-color: #24A19C !important; */
   }
 
   .carousel-item img {
@@ -106,19 +90,6 @@
  h1, h2, p, nav {
    font-family: 'Baloo 2', cursive;
  }
-
-
-/* .ul-heart li::before {
-  content: "";
-  background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/fb-heart.gif);
-  background-size: contain;
-  display: inline-block;
-  width: 1em;
-  height: 1em;
-  position: relative;
-  top: 0.1rem;
-  margin-right: 0.2rem;
-} */ 
 
 .ul-heart {
   list-style: none;
